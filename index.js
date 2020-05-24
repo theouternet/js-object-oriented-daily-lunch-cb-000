@@ -6,4 +6,4 @@ let mealId = 0;
 let customerId = 0;
 let deliveryId = 0;
 
-class Meal
+class Neighborhood(name)
