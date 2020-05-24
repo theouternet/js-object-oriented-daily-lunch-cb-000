@@ -1,6 +1,9 @@
 // global datastore
 let store = { neighborhoods: [], meals: [], customers: [], deliveries: [] };
 
-let driverId = 0;
-let passengerId = 0;
-let tripId = 0;
+let neighborhoodId = 0;
+let mealId = 0;
+let customerId = 0;
+let deliveryId = 0;
+
+class Meal
