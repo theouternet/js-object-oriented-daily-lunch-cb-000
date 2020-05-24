@@ -8,6 +8,6 @@ let deliveryId = 0;
 
 class Neighborhood {
   constructor(name) {
-    neighborhoodId = ++
+    this.id = ++neighborhoodId
   }
 }
